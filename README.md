@@ -16,6 +16,9 @@
 
 <h3>Others tools:</h3>
 <p>
+  <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/git.svg" alt="Git" title="Git" width="50" height="50"/>
+  <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/npm.svg" alt="npm" title="npm" width="50" height="50"/>
+  <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/bash.svg" alt="Bash" title="Bash" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/babel.svg" alt="BABEL" title="BABEL" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/vitejs.svg" alt="Vite JS" title="Vite JS" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/webpack.svg" alt="Webpack" title="Webpack" width="50" height="50"/>
@@ -24,9 +27,7 @@
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/figma.svg" alt="Figma" title="Figma" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/wordpress.svg" alt="Wordpress" title="Wordpress" width="50" height="50"/>
-  <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/git.svg" alt="Git" title="Git" width="50" height="50"/>
-  <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/npm.svg" alt="npm" title="npm" width="50" height="50"/>
-  <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/bash.svg" alt="Bash" title="Bash" width="50" height="50"/>
+  
 </p>
 
 <h3>Live preview of my portfolio projects:</h3>
