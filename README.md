@@ -3,7 +3,7 @@
 - 🤞🏻 I'm looking for my first job in the IT world.
 - 👨🏻‍💻 I'm in constant training as a frontend developer.
 - 🙌🏻 I love everything that has to do with web development.
-- 😎 I also make graphic and digital pieces.
+- 😎 I also create graphic and digital pieces.
 
 <h3>The currently stack i use:</h3>
 <p>
