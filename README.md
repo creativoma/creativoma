@@ -11,7 +11,7 @@
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/css3.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/javascript.svg" alt="Javascript" title="Javascript" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/reactjs.svg" alt="React JS" title="React JS" width="50" height="50"/>
-  <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/nodejs.svg" alt="Node JS" title="Node JS" width="50" height="50"/>
+<!--   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/nodejs.svg" alt="Node JS" title="Node JS" width="50" height="50"/> -->
 </p>
 
 <h3>Others tools:</h3>
