@@ -27,6 +27,7 @@
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/figma.svg" alt="Figma" title="Figma" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50"/>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/wordpress.svg" alt="Wordpress" title="Wordpress" width="50" height="50"/>
+  <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/tailwind.svg" alt="Tailwind" title="Tailwind" width="50" height="50"/>
   
 </p>
 
