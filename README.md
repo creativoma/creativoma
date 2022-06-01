@@ -1,6 +1,6 @@
 <h2>Hi, I’m Mariano.👋🏻 Frontend Developer and Creative Digital.👨🏻‍💻</h2>
 
-- 🤞🏻 I'm looking for my first job in the IT world.
+- 😁 Happy to have started my first job as a web programmer!
 - 👨🏻‍💻 I'm in constant training as a frontend developer.
 - 🙌🏻 I love everything that has to do with web development.
 - 😎 I also create graphic and digital pieces.
