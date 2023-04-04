@@ -36,7 +36,7 @@
 
 <h3>Live preview of my portfolio projects:</h3>
 
-_Comming soon..._
+  🚀 [Portfolio](https://landing-with-astro.vercel.app/) v1 builded with [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/).
 
 <h3>Connect with me:</h3>
 
