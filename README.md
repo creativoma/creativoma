@@ -5,6 +5,10 @@
 - 🙌🏻 I love everything that has to do with web development.
 - 😎 I also create graphic and digital pieces.
 
+<h3>Live preview of my portfolio projects:</h3>
+
+  🚀 [Portfolio](https://landing-with-astro.vercel.app/) v1 builded with [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/).
+
 <h3>The currently stack i use:</h3>
 <p>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/html5.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
@@ -33,10 +37,6 @@
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/mySQL.svg" alt="MySQL" title="MySQL" width="50" height="50"/> 
   
 </p>
-
-<h3>Live preview of my portfolio projects:</h3>
-
-  🚀 [Portfolio](https://landing-with-astro.vercel.app/) v1 builded with [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/).
 
 <h3>Connect with me:</h3>
 
