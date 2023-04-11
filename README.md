@@ -43,4 +43,3 @@
 - For email: [hola@creativoma.com](mailto:hola@creativoma.com)
 - On Twitter: [@dev_creativoma](https://twitter.com/dev_creativoma)
 - On Linkedin: [/ma-marianoalvarez](https://www.linkedin.com/in/ma-marianoalvarez/)
-- Or in my project as a freelance web developer: [creativoma.com](https://creativoma.com/)
