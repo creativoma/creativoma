@@ -1,9 +1,6 @@
 <h2>Hi, I’m Mariano.👋🏻 Frontend Developer and Creative Digital.👨🏻‍💻</h2>
 
-- ☘️ Looking for a job as a web developer!
-- 👨🏻‍💻 I'm in constant training as a frontend developer.
-- 🙌🏻 I love everything that has to do with web development.
-- 😎 I also create graphic and digital pieces.
+I am a Frontend Developer with extensive experience in various technologies, including pure JavaScript, React, Next.js, Astro.build, PHP, MySQL, Tailwind CSS, Sass, Node.js, Framer Motion and Wordpress (both traditional and Headless CMS). In addition, I have training in multimedia design and interface design using tools such as Figma and Adobe XD.
 
 <h3>Live preview of my portfolio projects:</h3>
 
