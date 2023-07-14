@@ -4,7 +4,7 @@ I am a Frontend Developer with extensive experience in various technologies, inc
 
 <h3>Live preview of my portfolio projects:</h3>
 
-  - 🚀 [Portfolio](https://landing-with-astro.vercel.app/) v1 builded with [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/).
+  - 🚀 [Portfolio](https://mariano-alvarez-portfolio-v1-0.vercel.app/) v1 builded with [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/).
   - Portfolio v2 coming soon 😉
 
 <h3>The currently stack i use:</h3>
