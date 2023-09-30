@@ -5,7 +5,7 @@ I am a Frontend Developer with extensive experience in various technologies, inc
 <h3>Links that might be of interest:</h3>
 
   - 😎 [Personal Website](https://creativoma.com/) builded with [Nextjs](https://nextjs.org/).
-  - 🚀 [Portfolio v1](https://dev.creativoma.com/) builded with [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/).
+  - 🚀 [Portfolio v1](https://dev.creativoma.com/) builded with [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/).
   - Portfolio v2 coming soon 😉
 
 <h3>The currently stack i use:</h3>
