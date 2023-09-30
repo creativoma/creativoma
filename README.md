@@ -2,9 +2,10 @@
 
 I am a Frontend Developer with extensive experience in various technologies, including pure JavaScript, React, Next.js, Astro.build, PHP, MySQL, Tailwind CSS, Sass, Node.js, Framer Motion and Wordpress (both traditional and Headless CMS). In addition, I have training in multimedia design and interface design using tools such as Figma and Adobe XD.
 
-<h3>Live preview of my portfolio projects:</h3>
+<h3>Links that might be of interest:</h3>
 
-  - 🚀 [Portfolio](https://mariano-alvarez-portfolio-v1-0.vercel.app/) v1 builded with [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/).
+  - 😎 [Personal Website](https://creativoma.com/) builded with [Nextjs](https://nextjs.org/).
+  - 🚀 [Portfolio v1](https://dev.creativoma.com/) builded with [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/).
   - Portfolio v2 coming soon 😉
 
 <h3>The currently stack i use:</h3>
