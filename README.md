@@ -2,12 +2,6 @@
 
 I am a Frontend Developer with extensive experience in various technologies, including pure JavaScript, React, Next.js, Astro.build, PHP, MySQL, Tailwind CSS, Sass, Node.js, Framer Motion and Wordpress (both traditional and Headless CMS). In addition, I have training in multimedia design and interface design using tools such as Figma and Adobe XD.
 
-<h3>Links that might be of interest:</h3>
-
-  - 😎 [Personal Website](https://creativoma.com/) builded with [Nextjs](https://nextjs.org/).
-  - 🚀 [Portfolio v1](https://dev.creativoma.com/) builded with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
-  - Portfolio v2 coming soon 😉
-
 <h3>The currently stack i use:</h3>
 <p>
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/html5.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
@@ -37,8 +31,9 @@ I am a Frontend Developer with extensive experience in various technologies, inc
   <img src="https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/figma.svg" alt="Figma" title="Figma" width="50" height="50"/>
 </p>
 
-<h3>Connect with me:</h3>
+<h3>Links that might be of interest:</h3>
 
-- For email: [hola@creativoma.com](mailto:hola@creativoma.com)
-- On Twitter: [@dev_creativoma](https://twitter.com/dev_creativoma)
-- On Linkedin: [/ma-marianoalvarez](https://www.linkedin.com/in/ma-marianoalvarez/)
+- [Personal Website](https://marianoalvarez.dev/) builded with [Nextjs](https://nextjs.org/).
+- [Portfolio v1](https://dev.creativoma.com/) builded with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/). Version 2 coming soon 😉
+- Linkedin [/ma-marianoalvarez](https://www.linkedin.com/in/ma-marianoalvarez/)
+- Email [hola@creativoma.com](mailto:hola@creativoma.com)
