@@ -1,6 +1,8 @@
 <h2>Hi, I’m Mariano.👋🏻 Frontend Developer and Creative Digital.👨🏻‍💻</h2>
 
-I am a Frontend Developer with extensive experience in various technologies, including pure JavaScript, React, Next.js, Astro.build, PHP, MySQL, Tailwind CSS, Sass, Node.js, Framer Motion and Wordpress (both traditional and Headless CMS). In addition, I have training in multimedia design and interface design using tools such as Figma and Adobe XD.
+Fullstack web developer with over 3 years of experience, I specialize in creating fluid experiences and keeping up to date with the latest design trends and cutting-edge technologies. I have a strong command of several programming languages, including HTML5, CSS3, Sass, PHP, Javascript, Typescript, and SQL. My experience extends to libraries and frameworks such as jQuery, React.js, Next.js, Astro.build, TailwindCSS, Bootstrap, Framer Motion, Styled Components, Stitches, SWR and i18n.
+
+In terms of tools and platforms, I am familiar with Git, Github, Node.js, Vite.js, Netlify, Vercel, WordPress (CMS Headless), MySQL, Visual Studio Code, Notion, Trello, ChatGPT, Google Search Console, Google Analytics, Adobe Illustrator and Figma.
 
 <h3>The currently stack i use:</h3>
 <p>
