@@ -1,4 +1,4 @@
-<h2>Hi, I’m Mariano.👋🏻 Frontend Developer and Creative Digital.👨🏻‍💻</h2>
+<h2>Hi, I’m Mariano.👋🏻</h2>
 
 Fullstack web developer with over 3 years of experience, I specialize in creating fluid experiences and keeping up to date with the latest design trends and cutting-edge technologies. I have a strong command of several programming languages, including HTML5, CSS3, Sass, PHP, Javascript, Typescript, and SQL. My experience extends to libraries and frameworks such as jQuery, React.js, Next.js, Astro.build, TailwindCSS, Bootstrap, Framer Motion, Styled Components, Stitches, SWR and i18n.
 
