@@ -38,6 +38,6 @@ In terms of tools and platforms, I am familiar with Git, Github, Node.js, Vite.j
 <h3>Links that might be of interest:</h3>
 
 - [Personal Website](https://marianoalvarez.dev/) builded with [Nextjs](https://nextjs.org/) + [Typescript](https://www.typescriptlang.org/).
-- I'm migrating my [Portfolio v1](https://dev.creativoma.com/) (deprecated version) to my [Personal Website](https://marianoalvarez.dev/).
+- I'm migrating my [Portfolio v1](https://mariano-alvarez-portfolio-v1-0.vercel.app/) (deprecated version) to my [Personal Website](https://marianoalvarez.dev/).
 - Linkedin [/ma-marianoalvarez](https://www.linkedin.com/in/ma-marianoalvarez/)
 - Email [hola@creativoma.com](mailto:hola@creativoma.com)
