@@ -1,10 +1,10 @@
 <h2>Hi, I’m Mariano.👋🏻</h2>
 
-Software Developer with over 3 years of experience, I specialize in creating fluid experiences and keeping up to date with the latest design trends and cutting-edge technologies. I have a strong command of several programming languages, including HTML5, CSS3, Sass, PHP, Javascript, Typescript, and SQL.
+Software Developer with over 4 years of experience, I specialize in creating fluid experiences and keeping up to date with the latest design trends and cutting-edge technologies. I have a strong command of several programming languages, including HTML5, CSS3, Sass, PHP, Javascript, Typescript, and SQL.
 
-My experience extends to libraries and frameworks such as jQuery, React.js, Next.js, Astro.build, TailwindCSS, Bootstrap, Framer Motion, Styled Components, Stitches, SWR, NextAuth, Auth0, i18n, Jest & Cypress.
+My experience extends to libraries and frameworks such as HTML5, CSS3, Sass, PHP, Javascript, Typescript, SQL, jQuery, React.js, Next.js, Astro.build, Angular v17, TailwindCSS, Bootstrap, Framer Motion, PIXI.js, Styled Components, Stitches, SWR, i18next, Prisma, Tauri, MySQL, PostgreSQL.
 
-In terms of tools and platforms, I am familiar with Git, Github, Node.js, Vite.js, Netlify, Vercel, WordPress (CMS Headless), MySQL, Visual Studio Code, Notion, Trello, ChatGPT, Google Search Console, Google Analytics, Adobe Illustrator and Figma.
+In terms of tools and platforms, I am familiar with Git, Github, Netlify, Vercel, Wordpress, VSCode, Sanity, Strapi, Notion, Jira, Confluence, Trello, Discord, Slack, ChatGPT, Github Copilot, Claude.ai, Google Search Console, Google Analytics, Adobe Illustrator, Figma.
 
 <!-- <h3>The currently stack i use:</h3>
 <p>
