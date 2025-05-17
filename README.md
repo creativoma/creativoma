@@ -40,4 +40,4 @@ In terms of tools and platforms, I am familiar with Git, Github, Netlify, Vercel
 - [Personal Website](https://marianoalvarez.dev/)
 - [Professional Website](https://creativoma.com/)
 - Linkedin [/ma-marianoalvarez](https://www.linkedin.com/in/ma-marianoalvarez/)
-- Email [hola@creativoma.com](mailto:hola@creativoma.com)
+- Email [hello@marianoalvarez.dev](mailto:hello@marianoalvarez.dev)
