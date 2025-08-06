@@ -1,10 +1,24 @@
-## Hi, I’m Mariano 👋🏻
+## Hi, I'm Mariano 👋🏻
 
-**Software Developer** with **4+ years** crafting fluid experiences and leveraging cutting-edge technologies. Passionate about modern design trends and clean, scalable code. I have a strong command of several programming languages, including HTML5, CSS3, Sass, PHP, Javascript, Typescript, and SQL.
+**Software Developer** with **4+ years** crafting fluid experiences and leveraging cutting-edge technologies. Passionate about modern design trends and clean, scalable code.
 
-My experience extends to libraries and frameworks such as jQuery, React.js, Next.js, Astro.build, Angular v17, TailwindCSS, Bootstrap, Framer Motion, PIXI.js, Styled Components, Stitches, SWR, i18next, Prisma, Tauri, MySQL, PostgreSQL.
+### Latest Project
 
-In terms of tools and platforms, I am familiar with Git, Github, Netlify, Vercel, Wordpress, VSCode, Sanity, Strapi, Notion, Jira, Confluence, Trello, Discord, Slack, ChatGPT, Github Copilot, Claude.ai, Google Search Console, Google Analytics, Adobe Illustrator, Figma.
+**[Elegant Notes App](https://elegantnotesapp.com/)** — A beautiful, minimalist note-taking application. Clean design meets powerful functionality. [View Source](https://github.com/creativoma/elegant-notes-app)
+
+### Technologies
+
+**Languages & Core:**  
+HTML5, CSS3, Javascript, Typescript, SQL, PHP
+
+**Frontend Frameworks & Libraries:**  
+React.js, Next.js, Angular v17, Astro.build, jQuery, TailwindCSS, Bootstrap, Framer Motion, PIXI.js, Styled Components, Stitches, SWR, i18next, Motion, Zustand, TanStack Query, Feature Flags, Jest, Vitest, React Testing Library, Playwright
+
+**Backend & Database:**  
+Node.js, Express.js, Prisma, MySQL, PostgreSQL, MongoDB, REST APIs
+
+**Tools & Platforms:**  
+Git, Github, Netlify, Vercel, AWS, Docker, VSCode, Sanity, Strapi, Notion, Jira, Confluence, Trello, Discord, Slack, Github Copilot, Claude.ai, Google Search Console, Google Analytics, Wordpress, Adobe Illustrator, Figma
 
 ### Links that might be of interest:
 
