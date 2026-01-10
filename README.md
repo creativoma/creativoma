@@ -4,7 +4,16 @@
 
 ### Latest Project
 
-**[Elegant Notes App](https://elegantnotesapp.com/)** — A beautiful, minimalist note-taking application. Clean design meets powerful functionality. [View Source](https://github.com/creativoma/elegant-notes-app)
+**[Reactive Contracts](https://github.com/creativoma/reactive-contracts)** — Bidirectional API contracts that put frontend in control. TypeScript-based with compiler, RPC, and validation.
+
+### Recent Projects
+
+- **[Formachine](https://github.com/creativoma/formachine)** — Type-safe, declarative multi-step forms for React
+- **[Elegant Notes App](https://elegantnotesapp.com/)** — Minimalist note-taking app with clean design ([source](https://github.com/creativoma/elegant-notes-app))
+- **[Lab Starter](https://github.com/creativoma/lab-starter)** — Starter template for creative coding experiments with Tweakpane
+- **[Create Stack](https://github.com/creativoma/create-stack)** — Interactive CLI to scaffold modern web projects
+- **[Virtual Try-On Store](https://github.com/creativoma/virtual-try-on-store)** — AI-powered virtual try-on platform using Gemini AI
+- **[Liquid Glass](https://github.com/creativoma/liquid-glass)** — React component with liquid frosted glass effect
 
 ### Technologies
 
