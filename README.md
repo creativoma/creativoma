@@ -1,6 +1,6 @@
 ## Hi, I'm Mariano 👋🏻
 
-**Software Developer** with **4+ years** crafting fluid experiences and leveraging cutting-edge technologies. Passionate about modern design trends and clean, scalable code.
+**Software Developer** with **5+ years** specializing in seamless web experiences and cutting-edge technologies. Currently at A-SAFE Digital as Software Developer. TypeScript, React, full modern stack — adaptable to any context.
 
 ### Latest Project
 
