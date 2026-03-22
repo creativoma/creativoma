@@ -8,7 +8,7 @@
 
 ### Recent Projects
 
-- **[freelow](https://github.com/creativoma/freelow)** — CLI for freelancers to track hours, tasks, and commits per client from the terminal. Built with Go.
+- **[Freelow](https://github.com/creativoma/freelow)** — CLI for freelancers to track hours, tasks, and commits per client from the terminal. Built with Go.
 - **[Formachine](https://github.com/creativoma/formachine)** — Type-safe, declarative multi-step forms for React
 - **[Elegant Notes App](https://elegantnotesapp.com/)** — Minimalist note-taking app with clean design ([source](https://github.com/creativoma/elegant-notes-app))
 - **[Lab Starter](https://github.com/creativoma/lab-starter)** — Starter template for creative coding experiments with Tweakpane
