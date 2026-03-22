@@ -8,6 +8,7 @@
 
 ### Recent Projects
 
+- **[freelow](https://github.com/creativoma/freelow)** — CLI for freelancers to track hours, tasks, and commits per client from the terminal. Built with Go.
 - **[Formachine](https://github.com/creativoma/formachine)** — Type-safe, declarative multi-step forms for React
 - **[Elegant Notes App](https://elegantnotesapp.com/)** — Minimalist note-taking app with clean design ([source](https://github.com/creativoma/elegant-notes-app))
 - **[Lab Starter](https://github.com/creativoma/lab-starter)** — Starter template for creative coding experiments with Tweakpane
@@ -17,8 +18,8 @@
 
 ### Technologies
 
-**Languages & Core:**  
-HTML5, CSS3, Javascript, Typescript, SQL, PHP
+**Languages & Core:**
+HTML5, CSS3, Javascript, Typescript, SQL, PHP, Go
 
 **Frontend Frameworks & Libraries:**  
 React.js, Next.js, Angular v17, Astro.build, jQuery, TailwindCSS, Bootstrap, Framer Motion, PIXI.js, Styled Components, Stitches, SWR, i18next, Motion, Zustand, TanStack Query, Feature Flags, Jest, Vitest, React Testing Library, Playwright
