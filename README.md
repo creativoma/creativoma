@@ -1,6 +1,6 @@
 ## Hi, I'm Mariano 👋🏻
 
-**Software Developer** with **5+ years** specializing in seamless web experiences and cutting-edge technologies. Currently at A-SAFE Digital as Software Developer. TypeScript, React, full modern stack — adaptable to any context.
+**Software Developer** with **5+ years** building web products from UI to infrastructure. Currently at A-SAFE Digital, working across the full stack with AI-integrated workflows. I use AI to accelerate execution — human judgment drives the architecture. TypeScript, React, Ruby on Rails, full modern stack.
 
 ### Latest Project
 
@@ -27,8 +27,11 @@ React.js, Next.js, Angular v17, Astro.build, jQuery, TailwindCSS, Bootstrap, Fra
 **Backend & Database:**  
 Node.js, Express.js, Prisma, MySQL, PostgreSQL, MongoDB, REST APIs
 
-**Tools & Platforms:**  
-Git, Github, Netlify, Vercel, AWS, Docker, VSCode, Sanity, Strapi, Notion, Jira, Confluence, Trello, Discord, Slack, Github Copilot, Claude.ai, Google Search Console, Google Analytics, Wordpress, Adobe Illustrator, Figma
+**AI:**
+Claude API, OpenAI API, Gemini AI, Vercel AI SDK, MCP servers, Claude Code, Github Copilot
+
+**Tools & Platforms:**
+Git, Github, Netlify, Vercel, AWS, Docker, VSCode, Sanity, Strapi, Notion, Jira, Confluence, Trello, Discord, Slack, Google Search Console, Google Analytics, Wordpress, Adobe Illustrator, Figma
 
 ### Links that might be of interest:
 
