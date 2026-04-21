@@ -8,6 +8,7 @@
 
 ### Open Source Projects
 
+- **[TopoJS](https://github.com/creativoma/topojs)** — State management as graph topology, not tree hierarchy.
 - **[Ollama TUI](https://github.com/creativoma/ollama-tui)** — Terminal interface to browse, chat, download and delete local Ollama models without leaving the terminal.
 - **[Freelow](https://github.com/creativoma/freelow)** — CLI for freelancers to track hours, tasks, and commits per client from the terminal. Built with Go.
 - **[Formachine](https://github.com/creativoma/formachine)** — Type-safe, declarative multi-step forms for React.
