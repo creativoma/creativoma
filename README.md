@@ -3,10 +3,11 @@
 **Software Developer** with **5+ years** building web products from UI to infrastructure. Currently at A-SAFE Digital, working across the full stack in a Rails + React monorepo. I actively integrate AI tools into my workflow to ship faster without sacrificing quality. TypeScript, React, Ruby on Rails, full modern stack.
 
 ### Latest Project
-**[TopoJS](https://github.com/creativoma/topojs)** — State management as graph topology, not tree hierarchy.
+**[Repo Dex](https://github.com/creativoma/repo-dex)** — Web app to index and analyze developer resources — GitHub, npm, and web URLs.
 
 ### Open Source Projects
 
+- **[TopoJS](https://github.com/creativoma/topojs)** — State management as graph topology, not tree hierarchy.
 - **[Ollama TUI](https://github.com/creativoma/ollama-tui)** — Terminal interface to browse, chat, download and delete local Ollama models without leaving the terminal.
 - **[Reactive Contracts](https://github.com/creativoma/reactive-contracts)** — Bidirectional API contracts that put frontend in control. TypeScript-based with compiler, RPC, and validation.
 - **[Freelow](https://github.com/creativoma/freelow)** — CLI for freelancers to track hours, tasks, and commits per client from the terminal. Built with Go.
