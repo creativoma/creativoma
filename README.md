@@ -2,21 +2,23 @@
 
 **Software Developer** with **5+ years** building web products from UI to infrastructure. Currently at A-SAFE Digital, working across the full stack in a Rails + React monorepo. I actively integrate AI tools into my workflow to ship faster without sacrificing quality. TypeScript, React, Ruby on Rails, full modern stack.
 
-### Latest Project
-**[Repo Dex](https://github.com/creativoma/repo-dex)** — Web app to index and analyze developer resources — GitHub, npm, and web URLs.
-
 ### Open Source Projects
 
-- **[TopoJS](https://github.com/creativoma/topojs)** — State management as graph topology, not tree hierarchy.
-- **[Ollama TUI](https://github.com/creativoma/ollama-tui)** — Terminal interface to browse, chat, download and delete local Ollama models without leaving the terminal.
+**Products & Tools**
+- **[Repo Dex](https://github.com/creativoma/repo-dex)** — Web app to index and analyze developer resources — GitHub, npm, and web URLs.
+- **[Virtual Try-On Store](https://github.com/creativoma/virtual-try-on-store)** — AI-powered virtual try-on platform using Gemini AI.
 - **[Reactive Contracts](https://github.com/creativoma/reactive-contracts)** — Bidirectional API contracts that put frontend in control. TypeScript-based with compiler, RPC, and validation.
 - **[Freelow](https://github.com/creativoma/freelow)** — CLI for freelancers to track hours, tasks, and commits per client from the terminal. Built with Go.
+
+**Libraries & Components**
+- **[TopoJS](https://github.com/creativoma/topojs)** — State management as graph topology, not tree hierarchy.
 - **[Formachine](https://github.com/creativoma/formachine)** — Type-safe, declarative multi-step forms for React.
-- **[Virtual Try-On Store](https://github.com/creativoma/virtual-try-on-store)** — AI-powered virtual try-on platform using Gemini AI.
-- **[Create Stack](https://github.com/creativoma/create-stack)** — Interactive CLI to scaffold modern web projects.
 - **[Liquid Glass](https://github.com/creativoma/liquid-glass)** — React component with liquid frosted glass effect.
+
+**Dev Experience**
+- **[Ollama TUI](https://github.com/creativoma/ollama-tui)** — Terminal interface to browse, chat, download and delete local Ollama models without leaving the terminal.
+- **[Create Stack](https://github.com/creativoma/create-stack)** — Interactive CLI to scaffold modern web projects.
 - **[Lab Starter](https://github.com/creativoma/lab-starter)** — Starter template for creative coding experiments with Tweakpane.
-- **[Numeric Background](https://github.com/creativoma/numeric-background)** — React component that generates animated numeric backgrounds with color, opacity, matrix, and custom symbol variants.
 
 ### Tech Stack
 
