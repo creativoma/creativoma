@@ -20,6 +20,9 @@
 - **[Create Stack](https://github.com/creativoma/create-stack)** — Interactive CLI to scaffold modern web projects.
 - **[Lab Starter](https://github.com/creativoma/lab-starter)** — Starter template for creative coding experiments with Tweakpane.
 
+**Labs**
+- **[WebMCP Lab](https://github.com/creativoma/webmcp)** — Reference demos and eval fixtures for WebMCP, the proposed web standard for exposing page tools to in-browser AI agents.
+
 ### Tech Stack
 
 - **Languages:** TypeScript, JavaScript, Ruby, HTML5, CSS3, SQL, PHP
