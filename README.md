@@ -24,6 +24,7 @@
 - **[Lab Starter](https://github.com/creativoma/lab-starter)** — Starter template for creative coding experiments with Tweakpane.
 
 **Labs**
+- **[AI Workbench](https://github.com/creativoma/ai-workbench)** — Frontend-first AI engineering lab: streaming chat, tool calling, human-in-the-loop approvals, structured outputs, LLM observability and code-based evals. Vite 8, React 19, Vercel AI SDK, Hono, Zod and Langfuse.
 - **[WebMCP Lab](https://github.com/creativoma/webmcp)** — Reference demos and eval fixtures for WebMCP, the proposed web standard for exposing page tools to in-browser AI agents.
 
 ### Tech Stack
@@ -32,6 +33,6 @@
 - **Frameworks:** React, Next.js, Astro, Angular, Ruby on Rails, Hotwire
 - **UI & Motion:** TailwindCSS, Framer Motion, GSAP, Three.js, React Three Fiber, PIXI.js, tldraw
 - **State & Data:** Zustand, SWR, TanStack Query, tRPC, Zod, i18next, Inertia.js
-- **Backend & DB:** Node.js, Express, Prisma, PostgreSQL, MySQL, MongoDB
-- **Tooling:** Git, Docker, AWS, Vercel, Bun, Turborepo, Figma, Jest, Vitest, Playwright
-- **AI:** Claude API, OpenAI, Gemini, Vercel AI SDK, MCP servers, Agents, Skills.
+- **Backend & DB:** Node.js, Express, Hono, Prisma, PostgreSQL, MySQL, MongoDB
+- **Tooling:** Git, Docker, AWS, Vercel, Bun, Vite, Turborepo, Figma, Jest, Vitest, Playwright
+- **AI:** Claude API, OpenAI, Gemini, Vercel AI SDK, MCP servers, Agents, Skills, Tool Calling, Human-in-the-Loop, Structured Outputs, Langfuse, LLM Evals.
