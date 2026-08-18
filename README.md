@@ -1,6 +1,7 @@
 ## Hi, I'm Mariano 👋🏻
-
 **Software Developer** with **5+ years** building web products from UI to infrastructure. Currently at A-SAFE Digital, working across the full stack in a Rails + React monorepo. I actively integrate AI tools into my workflow to ship faster without sacrificing quality. TypeScript, React, Ruby on Rails, full modern stack.
+
+I maintain the projects above in my own time. If any of them saved you an afternoon, you can [sponsor the maintenance](https://github.com/sponsors/creativoma).
 
 ### Open Source Projects
 
